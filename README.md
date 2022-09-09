@@ -19,5 +19,6 @@
 
 `npm start`
 
+# Project design 
 
 ![image](https://user-images.githubusercontent.com/101593133/189434052-01f9bdeb-d321-4cf6-b7c2-32a4f70f9d1f.png)
